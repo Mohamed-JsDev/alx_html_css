@@ -1,0 +1,50 @@
+/* General body styling */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f9f9f9; /* Light background for contrast */
+}
+
+/* Header and Footer Styles */
+header {
+  background-color: #4caf50; /* Green background for header */
+  color: white;
+  padding: 15px;
+}
+
+footer {
+  background-color: #333; /* Dark footer */
+  color: white;
+  padding: 10px;
+}
+
+/* Article and Aside Styles */
+article {
+  padding: 20px;
+  background-color: #ffffff; /* White background for article */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+aside {
+  padding: 20px;
+  background-color: #e0e0e0; /* Light gray for aside */
+  border-radius: 8px; /* Rounded corners */
+}
+
+/* Logo Styling */
+.logo {
+  font-size: 24px; /* Larger font size for logo */
+  margin-right: 10px; /* Space between logo and text */
+}
+
+/* Link styles */
+ul {
+  list-style-type: none; /* Remove bullet points */
+  padding: 0; /* Remove padding */
+}
+
+ul li {
+  display: inline; /* Horizontal list items */
+  margin: 0 15px; /* Space between items */
+}
